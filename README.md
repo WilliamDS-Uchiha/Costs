@@ -1,4 +1,4 @@
-## Costs [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/WilliamDS-Uchiha/costs)
+## Costs [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/WilliamDS-Uchiha/Costs)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
